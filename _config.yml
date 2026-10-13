@@ -1,0 +1,29 @@
+# Site settings
+title: Pranav Shriram Arunachalaramanan
+description: PhD student at the University of Illinois Urbana-Champaign working on cryptography and private information retrieval.
+author:
+  name: Pranav Shriram Arunachalaramanan
+  email: psa3@illinois.edu
+  position: PhD Student
+  university: University of Illinois Urbana-Champaign
+  photo: /files/author.jpeg
+  github: "PranavShriram?tab=repositories"
+  scholar: f54M0ikAAAAJ
+  linkedin: pranav-shriram-256367169
+  twitter:
+
+url: ""             # e.g. "https://<username>.github.io"
+baseurl: ""
+
+nav:
+  - title: About
+    url: /
+  - title: Research
+    url: /research/
+
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

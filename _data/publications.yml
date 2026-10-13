@@ -1,0 +1,48 @@
+# Newest first within each type. type: journal | conference | manuscript
+# Your name is bolded automatically wherever it matches author.name in _config.yml.
+
+- title: "Efficient Private Range Queries on Public Data"
+  url: https://eprint.iacr.org/2026/429
+  authors: "Pranav Shriram Arunachalaramanan, Ananya Appan, David Heath, Ling Ren"
+  venue: "IEEE S&P 2027"
+  type: conference
+
+- title: "Single-Server Stateful PIR with Verifiability and Balanced Efficiency"
+  url: https://eprint.iacr.org/2025/1055
+  authors: "Pranav Shriram Arunachalaramanan, Ling Ren"
+  venue: "IEEE S&P 2026"
+  type: conference
+
+- title: "Ruffle: Rapid 3-Party Shuffle Protocols"
+  url: https://eprint.iacr.org/2023/431
+  authors: "Pranav Shriram Arunachalaramanan, Nishat Koti, Varsha Bhat Kukkala, Arpita Patra, Bhavish Raj Gopal, Somya Sangal"
+  venue: "PETS 2023"
+  type: conference
+  links:
+    - name: PoPETs
+      url: https://petsymposium.org/popets/2023/popets-2023-0068.php
+
+- title: "Find Thy Neighbourhood: Privacy-Preserving Local Clustering"
+  url: https://eprint.iacr.org/2022/1727
+  authors: "Pranav Shriram Arunachalaramanan, Nishat Koti, Varsha Bhat Kukkala, Arpita Patra, Bhavish Raj Gopal"
+  venue: "PETS 2023"
+  type: conference
+  links:
+    - name: PoPETs
+      url: https://petsymposium.org/popets/2023/popets-2023-0039.php
+
+- title: "Private Information Retrieval: A Tutorial and Survey"
+  url: https://eprint.iacr.org/2026/1135
+  authors: "Pranav Shriram Arunachalaramanan, Yue Chen, Ling Ren"
+  venue: "Proceedings of the IEEE, 2026"
+  type: journal
+
+- title: "Revisiting Malicious Private Aggregation: Formalization, Weaknesses, and Enhancements"
+  url: https://eprint.iacr.org/2026/2074
+  authors: "Ananya Appan, Pranav Shriram Arunachalaramanan, David Heath, Ling Ren"
+  type: manuscript
+
+- title: "Efficient Single-Server Stateful PIR Using Format-Preserving Encryption"
+  url: https://eprint.iacr.org/2026/437
+  authors: "Pranav Shriram Arunachalaramanan, Ling Ren"
+  type: manuscript
