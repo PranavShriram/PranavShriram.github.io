@@ -5,6 +5,8 @@ ornament: corner-research.svg
 ornament_corners: [top-left]
 permalink: /research/
 ---
+<p class="meta">All papers are (co-)first author papers.</p>
+
 {% assign sections = "conference:Conference Publications,journal:Journal Publications,manuscript:Manuscripts" | split: "," %}
 {% for s in sections %}
   {% assign parts = s | split: ":" %}
