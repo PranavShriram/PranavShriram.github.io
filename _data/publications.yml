@@ -37,6 +37,10 @@
   venue: "Proceedings of the IEEE, 2026"
   type: journal
 
+- title: "TreeOnion: Efficient Private Retrieval of Tree Paths"
+  authors: "Pranav Shriram Arunachalaramanan, Chenyang Zhang, Yue Chen, Ling Ren"
+  type: manuscript
+
 - title: "Revisiting Malicious Private Aggregation: Formalization, Weaknesses, and Enhancements"
   url: https://eprint.iacr.org/2026/2074
   authors: "Ananya Appan, Pranav Shriram Arunachalaramanan, David Heath, Ling Ren"
